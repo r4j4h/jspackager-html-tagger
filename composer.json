@@ -1,0 +1,30 @@
+{
+  "name": "r4j4h/jspackager-html-tagger",
+  "description": "Simple bare bones HTML tag generator for <script> and <link> tags",
+  "keywords": ["html", "script", "link", "stylesheet"],
+  "license": "MIT",
+  "require": {
+    "psr/log": "1.0.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "~4.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "JsPackager\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "JsPackagerTest\\": "tests/"
+    }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-develop": "1.1.x-dev",
+      "dev-master": "1.0.x-dev"
+    }
+  }
+}
+
+
