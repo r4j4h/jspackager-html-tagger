@@ -1,4 +1,4 @@
-Tagger is a simple bare bones converter from file paths to <script> and <link> HTML tags.
+Tagger is a simple bare bones converter from file paths to `<script>` and `<link>` HTML tags.
 
 Usage
 =====
