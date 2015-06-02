@@ -1,8 +1,15 @@
-Tagger is a simple bare bones converter from file paths to `<script>` and `<link>` HTML tags.
+Tagger is a simple bare bones converter from file paths to `<script>` and `<link>` HTML tags written in PHP.
+
+
+Installation
+=====
+
+1. Install [Composer](https://getcomposer.org)
+2. `composer require 'r4j4h/jspackager-html-tagger:1.0'`
+
 
 Usage
 =====
-
 
 Basics
 -----
